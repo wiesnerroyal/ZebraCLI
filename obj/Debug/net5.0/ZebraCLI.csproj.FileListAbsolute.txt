@@ -1,0 +1,16 @@
+C:\Users\fwiesner\Desktop\ZebraCLI\bin\Debug\net5.0\ZebraCLI.exe
+C:\Users\fwiesner\Desktop\ZebraCLI\bin\Debug\net5.0\ZebraCLI.deps.json
+C:\Users\fwiesner\Desktop\ZebraCLI\bin\Debug\net5.0\ZebraCLI.runtimeconfig.json
+C:\Users\fwiesner\Desktop\ZebraCLI\bin\Debug\net5.0\ZebraCLI.runtimeconfig.dev.json
+C:\Users\fwiesner\Desktop\ZebraCLI\bin\Debug\net5.0\ZebraCLI.dll
+C:\Users\fwiesner\Desktop\ZebraCLI\bin\Debug\net5.0\ref\ZebraCLI.dll
+C:\Users\fwiesner\Desktop\ZebraCLI\bin\Debug\net5.0\ZebraCLI.pdb
+C:\Users\fwiesner\Desktop\ZebraCLI\obj\Debug\net5.0\ZebraCLI.csprojAssemblyReference.cache
+C:\Users\fwiesner\Desktop\ZebraCLI\obj\Debug\net5.0\ZebraCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fwiesner\Desktop\ZebraCLI\obj\Debug\net5.0\ZebraCLI.AssemblyInfoInputs.cache
+C:\Users\fwiesner\Desktop\ZebraCLI\obj\Debug\net5.0\ZebraCLI.AssemblyInfo.cs
+C:\Users\fwiesner\Desktop\ZebraCLI\obj\Debug\net5.0\ZebraCLI.csproj.CoreCompileInputs.cache
+C:\Users\fwiesner\Desktop\ZebraCLI\obj\Debug\net5.0\ZebraCLI.dll
+C:\Users\fwiesner\Desktop\ZebraCLI\obj\Debug\net5.0\ref\ZebraCLI.dll
+C:\Users\fwiesner\Desktop\ZebraCLI\obj\Debug\net5.0\ZebraCLI.pdb
+C:\Users\fwiesner\Desktop\ZebraCLI\obj\Debug\net5.0\ZebraCLI.genruntimeconfig.cache
